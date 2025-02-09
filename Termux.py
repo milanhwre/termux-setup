@@ -1,7 +1,7 @@
 #__________________| SCRIPT INFO |__________________#
-# SCRIPT MAKED BY U7P4L 1N
+# SCRIPT MAKED BY Anish
 # PYTHON VERSION : 3.11
-# GITHUB : U7P4L-IN
+# GITHUB : Anish
 # TEAM : ANONYMOUS CYBER
 #_______________| IMPORT MODULES |________________#
 import os
@@ -12,7 +12,7 @@ from rich import print
 from rich.panel import Panel
 from time import localtime as lt
 print(Panel("[bold black]【[white]•[bold black]】[blue_violet] INSTALLED SYSTEM", style="bold bright_black",title="<[bold white reverse] WELCOME [/bold white reverse]>"));time.sleep(1.5)
-sys.stdout.write('\x1b]2; ANONYMOUS CYBER™🌻🔥💯\x07')
+sys.stdout.write('\x1b]2; Anish™🌻🔥💯\x07')
 #__________________| COLOUR |__________________#
 A = '\x1b[1;97m';Y = '\033[1;33m';N1 = '\033[1;92m\x1b[38;5;208m';N2 = '\033[1;92m\x1b[38;5;209m';N3 = '\033[1;92m\x1b[38;5;210m';N4 = '\033[1;92m\x1b[38;5;211m'
 #______________| SOME METHOD |_______________#
@@ -51,7 +51,7 @@ def loadinglisen():
     print()
 #__________________| LOGO |__________________#
 def logo():
-    print(" ");print(Panel("[bold red]● [bold yellow]● [bold green]●\n[green1] ╺┳╸┏━╸┏━┓┏┳┓╻ ╻╻ ╻   ┏━┓┏━╸╺┳╸╻ ╻┏━┓\n[spring_green2]  ┃ ┣╸ ┣┳┛┃┃┃┃ ┃┏╋┛   ┗━┓┣╸  ┃ ┃ ┃┣━┛\n[spring_green11]  ╹ ┗━╸╹┗╸╹ ╹┗━┛╹ ╹   ┗━┛┗━╸ ╹ ┗━┛╹  ", style="bold bright_black",title="<[bold white reverse] CODING BY - U7P4L 1N [/bold white reverse]>"))
+    print(" ");print(Panel("[bold red]● [bold yellow]● [bold green]●\n[green1] ╺┳╸┏━╸┏━┓┏┳┓╻ ╻╻ ╻   ┏━┓┏━╸╺┳╸╻ ╻┏━┓\n[spring_green2]  ┃ ┣╸ ┣┳┛┃┃┃┃ ┃┏╋┛   ┗━┓┣╸  ┃ ┃ ┃┣━┛\n[spring_green11]  ╹ ┗━╸╹┗╸╹ ╹┗━┛╹ ╹   ┗━┛┗━╸ ╹ ┗━┛╹  ", style="bold bright_black",title="<[bold white reverse] CODING BY - ANISH HWRE[/bold white reverse]>"))
     print(Panel("[bold black]【[white]•[bold black]】[bold yellow] DEVELOPER   [white]➤ [dark_olive_green2]ANISH HWRE \n[bold black]【[white]•[bold black]】[bold yellow] GITHUB      [white]➤ [dark_olive_green2]ANISH \n[bold black]【[white]•[bold black]】[bold yellow] VERSION     [white]➤ [dark_olive_green2]1.0.2\n[bold black]【[white]•[bold black]】[bold yellow] TELEGRAM    [white]➤ [dark_olive_green2]Anish Xd\n[bold black]【[white]•[bold black]】[bold yellow] TOOL'S NAME [white]➤ [bold purple reverse] TERMUX BESIC SETUP ", style="bold bright_black"))
 #__________________| SETUP LOGO |__________________#
 def logo2():
@@ -59,7 +59,7 @@ def logo2():
 #__________________| MAIN MENU |__________________#
 def menu():
     clear()
-    os.system('xdg-open https://github.co/U7P4L-IN')
+    os.system('xdg-open https://githb.com/U7P4L-IN')
     clear()
     print(Panel("[bold black]【[white]01[bold yellow]/[white]A[bold black]】[dark_slate_gray3]TERMUX BESIC PKG SETUP\n[bold black]【[white]02[bold yellow]/[white]B[bold black]】[dark_slate_gray3]ADD BANNER IN TERMUX \n[bold black]【[white]03[bold yellow]/[white]C[bold black]】[dark_slate_gray3]REPORT FOR ANY BUGS\n[bold black]【[white]00[bold yellow]/[white]X[bold black]】[red1]EXIT PROGRAMME", style="bold bright_black",title="<[bold white reverse] MAIN MENU [/bold white reverse]>"))
     option = Console().input("[bold bright_black]   ╰─>[white] ")
@@ -74,10 +74,10 @@ def admin():
     clear()
     print(Panel("[bold black]【[white]01[bold yellow]/[white]A[bold black]】[cyan3]JOIN FB PAGE\n[bold black]【[white]02[bold yellow]/[white]B[bold black]】[cyan3]JOIN FB GROUP\n[bold black]【[white]03[bold yellow]/[white]C[bold black]】[cyan3]JOIN TELEGRAM\n[bold black]【[white]04[bold yellow]/[white]D[bold black]】[cyan3]FOLLOW GITHUB\n[bold black]【[white]00[bold yellow]/[white]X[bold black]】[red1]BACK TO MAIN MENU", style="bold bright_black",title="<[bold white reverse] OUR COMMUNITY [/bold white reverse]>"))
     option = Console().input("[bold bright_black]   ╰─>[white] ")
-    if option in ['1','01','A','a']:os.system('xdg-open https://www.facebook.com/profile.php?id=100003658223632');menu()
-    elif option in ['2','02','B','b']:os.system('xdg-open https://facebook.com/groups/anonymouscyerxd/');menu()
-    elif option in ['3','03','C','c']:os.system('xdg-open https://t.me/UP4L');menu()
-    elif option in ['4','04','D','d']:os.system('xdg-open https://githu.com/U7P4L-IN');menu()
+    if option in ['1','01','A','a']:os.system('xdg-open https://www.facebook.com/profile.php?id=61571731694900');menu()
+    elif option in ['2','02','B','b']:os.system('xdg-open.');menu()
+    elif option in ['3','03','C','c']:os.system('xdg-open https:/t.me/U7P4L');menu()
+    elif option in ['4','04','D','d']:os.system('xdg-open https://github.com/UP4L-IN');menu()
     elif option in ['0','00','X','x']:menu()
     else:
         print(Panel("[bold black]【[white]=[bold black]】 [bold blue]BYE BYE BRO..", style="bold bright_black",title="<[bold white reverse] EXIT ~ [/bold white reverse]>"));menu()
